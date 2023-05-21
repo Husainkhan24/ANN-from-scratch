@@ -1,4 +1,4 @@
-# Happy_monk_assign
+# Artificial Neural Network from scratch
 perceptron model is a class of artificial neural network that uses back propagation technique for training.
 It has two layers of nodes. The hidden layer has 4, the input layer has 4 and the output layer has 3 neurons.
 During training, all the weights and biases are updated after processing single training sample with the help of stochastic training method.
